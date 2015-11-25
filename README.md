@@ -1,5 +1,5 @@
 # Ticket
-C++实现一个简单的航空购票程序(主要是结构体的使用，未设计面向对象编程)
+C++实现一个简单的航空购票程序(主要是结构体的使用，未涉及面向对象编程)
 
 =====
 
@@ -97,6 +97,8 @@ main函数非常简单，首先需要将座位和票信息初始化，即将它�
     }
 
 5，实现效果
+
+<img src="https://github.com/msAndroid/Ticket/screenshot.gif" alt="Drawing"  />
 
 License
 --------
