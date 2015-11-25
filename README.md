@@ -98,7 +98,7 @@ main函数非常简单，首先需要将座位和票信息初始化，即将它�
 
 5，实现效果
 
-<img src="https://github.com/msAndroid/Ticket/screenshot.gif" alt="Drawing"  />
+<img src="https://github.com/msandroid/Ticket/blob/master/screenshot.gif" alt="Drawing"  />
 
 License
 --------
